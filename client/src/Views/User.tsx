@@ -42,7 +42,7 @@ export default function User() {
         <table>
           <thead>
             <tr>
-              <th>Id</th>
+              <th>Ids</th>
               <th>Name</th>
               <th>Email</th>
               <th>Created Date</th>
